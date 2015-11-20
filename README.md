@@ -8,3 +8,5 @@ RaveBot is an iOS and Android app built on the ionic framework with a Rails back
 2. Adding to an existing playlist. Using the unique name already set, other members at a party can search for and send songs to be added to the playlist along with a message and their name.
 
 Suggestions for RaveBot? Send a pull request!
+
+Want to view the app? Download Ionic View on the apple app store and use this code to view the app. ecd43ecd
