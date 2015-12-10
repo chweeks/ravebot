@@ -19,7 +19,6 @@ ravebot.controller('HomeCtrl', ['$scope', '$http', '$state', '$location', '$cook
       function success(response) {
         $cookies.put('partyName', response.data.name)
         $cookies.put('party_id', response.data.id)
-        console.log($cookies.get('partyName'))
         $state.go('partyplayer')
       },
       function error(response) {
